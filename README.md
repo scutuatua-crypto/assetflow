@@ -2,6 +2,9 @@
 
 Automatic Asset Receiving Platform — part of the WhaleTrucker ecosystem.
 
+![CI](https://github.com/scutuatua-crypto/assetflow/actions/workflows/ci.yml/badge.svg)
+[![codecov](https://codecov.io/gh/scutuatua-crypto/assetflow/branch/main/graph/badge.svg)](https://codecov.io/gh/scutuatua-crypto/assetflow)
+
 ## Stack
 - React 18 + Vite 5
 - Pure CSS (no Tailwind needed)
